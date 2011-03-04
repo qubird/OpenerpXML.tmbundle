@@ -21,3 +21,5 @@ OpenerpXML allows you to easily create Openerp XML Data files and fill them by u
 
 INSTALLATION
 Just copy this directory into your ~/Library/Application\ Support/TextMate/Bundles/ directory, and reload bundles. That's it!
+
+You'll have a new bundle named XML Openerp among yours!
